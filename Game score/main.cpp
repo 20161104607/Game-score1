@@ -36,7 +36,7 @@ int menu_select()//菜单
         printf("\n请输入选项（1－5）：");
         fflush(stdin);
         scanf("%d",&MenuItem);
-    }while(MenuItem<1||MenuItem>4);
+    }while(MenuItem<1||MenuItem>5);
     
     return MenuItem;
 }
@@ -122,9 +122,9 @@ void loads()
                 fields.push_back(field);
             }
             string name = Trim(fields[0]);
-            string age = Trim(fields[1]);
-            string birthday = Trim(fields[2]);
-            cout << name << "\t" << age << "\t" << birthday << endl;
+            string sex = Trim(fields[1]);
+            string tel = Trim(fields[2]);
+            cout << name << "\t" << sex << "\t" << tel << endl;
         }
         
     }
@@ -148,9 +148,13 @@ void student_information()
             fields.push_back(field);
         }
         string name = Trim(fields[0]);
-        string age = Trim(fields[1]);
-        string birthday = Trim(fields[2]);
-        cout << name << "\t" << age << "\t" << birthday << endl;
+        string sex = Trim(fields[1]);
+        string tel = Trim(fields[2]);
+         string clas = Trim(fields[3]);
+         string prom= Trim(fields[4]);
+         string form = Trim(fields[5]);
+         string no = Trim(fields[6]);
+        cout << name << "\t" << sex<< "\t" << tel<< clas<<prom<<form<<no<<endl;
     }
     
 }
@@ -175,6 +179,8 @@ int main()
                 student_information();
                 break;
             case 4:
+                
+            case 5:
 
                 printf("Thank you for using！\n");
                 return 0;

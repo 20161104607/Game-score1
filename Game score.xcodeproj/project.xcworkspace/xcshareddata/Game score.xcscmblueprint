@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8697D5B0C48C1DF4CDC698B77462B45497A3E30C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A9EFFF9419C4842FA83B414000FE9849771D6030" : 9223372036854775807,
+    "8697D5B0C48C1DF4CDC698B77462B45497A3E30C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FE88A68C-DB8E-4441-A4AE-EE29AF02EA61",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A9EFFF9419C4842FA83B414000FE9849771D6030" : "Game%20score\/Game%20score\/",
+    "8697D5B0C48C1DF4CDC698B77462B45497A3E30C" : "Game%20score\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Game score",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Game score.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/20161104607\/Game-score1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8697D5B0C48C1DF4CDC698B77462B45497A3E30C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/20161104607\/Game-score.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A9EFFF9419C4842FA83B414000FE9849771D6030"
+    }
+  ]
+}
